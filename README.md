@@ -3,6 +3,18 @@
   <p>Изучаю <b>Web Pentest</b>, <b>Docker</b>, <b>Web-разработку</b> и автоматизацию процессов.</p>
 </div>
 
+### 📊 Моя статистика (Self-hosted на Vercel)
+
+<p align="center">
+  <img src="https://github-readme-stats-delta-nine-38.vercel.app/api?username=cerberussolution&show_icons=true&theme=transparent&title_color=A74DFF&text_color=ffffff&icon_color=A74DFF&border_color=A74DFF" alt="Cerberus Stats" />
+</p>
+
+### 🛠 Языки программирования
+
+<p align="center">
+  <img src="https://github-readme-stats-delta-nine-38.vercel.app/api/top-langs/?username=cerberussolution&layout=compact&theme=transparent&title_color=A74DFF&text_color=ffffff&border_color=A74DFF" alt="Cerberus Languages" />
+</p>
+
 
 ### 🛠 Инструменты и технологии
 
@@ -18,8 +30,3 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232496ed.svg?style=flat&logo=metasploit&logoColor=white)
 
 
-![Моя статистика GitHub](github-readme-stats.vercel.app)
-
-![Топ языков](github-readme-stats.vercel.app)
-
-![Streak Stats](streak-stats.demolab.com)
