@@ -2,10 +2,7 @@
   <h1>Привет, я Cerberus Solution! 👋</h1>
   <p>Изучаю <b>Web Pentest</b>, <b>Docker</b>, <b>Web-разработку</b> и автоматизацию процессов.</p>
 </div>
-### 📊 Моя статистика GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cerberussolution&show_icons=true&theme=radical&title_color=A74DFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerberussolution&layout=compact&theme=radical&title_color=A74DFF)
 
 ### 🛠 Инструменты и технологии
 
@@ -15,8 +12,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-### 📊 Моя активность
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cerberussolution&show_icons=true&theme=transparent&title_color=A74DFF&text_color=ffffff&icon_color=A74DFF&border_color=A74DFF" alt="Cerberus Stats" />
-</p>
+### 🛡️ Инструменты безопасности
+![Nmap](https://img.shields.io/badge/Nmap-%234c5c68.svg?style=flat&logo=nmap&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-%23ff6633.svg?style=flat&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%232496ed.svg?style=flat&logo=metasploit&logoColor=white)
