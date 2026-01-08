@@ -19,3 +19,7 @@
 
 
 ![Моя статистика GitHub](github-readme-stats.vercel.app)
+
+![Топ языков](github-readme-stats.vercel.app)
+
+![Streak Stats](streak-stats.demolab.com)
