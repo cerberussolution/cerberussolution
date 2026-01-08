@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <h1>Привет, я Cerberus! 👋</h1>
+  <p>Изучаю <b>Docker</b>, <b>Web-разработку</b> и автоматизацию процессов.</p>
+</div>
+### 📊 Моя статистика GitHub
 
-<!--
-**cerberussolution/cerberussolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+### 🛠 Инструменты и технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
