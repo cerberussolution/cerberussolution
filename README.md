@@ -16,3 +16,6 @@
 ![Nmap](https://img.shields.io/badge/Nmap-%234c5c68.svg?style=flat&logo=nmap&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-%23ff6633.svg?style=flat&logo=portswigger&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232496ed.svg?style=flat&logo=metasploit&logoColor=white)
+
+
+![Моя статистика GitHub](github-readme-stats.vercel.app)
