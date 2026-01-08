@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>Привет, я Cerberus! 👋</h1>
-  <p>Изучаю <b>Docker</b>, <b>Web-разработку</b> и автоматизацию процессов.</p>
+  <h1>Привет, я Cerberus Solution! 👋</h1>
+  <p>Изучаю <b>Web Pentest</b>, <b>Docker</b>, <b>Web-разработку</b> и автоматизацию процессов.</p>
 </div>
 ### 📊 Моя статистика GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЛОГИН&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=cerberussolution&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerberussolution&layout=compact&theme=radical)
 
 ### 🛠 Инструменты и технологии
 
