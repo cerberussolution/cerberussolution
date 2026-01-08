@@ -4,8 +4,8 @@
 </div>
 ### 📊 Моя статистика GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cerberussolution&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerberussolution&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=cerberussolution&show_icons=true&theme=radical&title_color=A74DFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerberussolution&layout=compact&theme=radical&title_color=A74DFF)
 
 ### 🛠 Инструменты и технологии
 
