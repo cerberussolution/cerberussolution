@@ -15,6 +15,12 @@
 * **Future Goal:** Deep diving into a US University Cybersecurity curriculum to bridge practice with academic theory.
 
 ---
+### 📊 HTB Stats at the time of Rooting
+* **Global Rank:** `#901` 🌍 (Top 1000 Achievement)
+* **Flags Captured:** `11` 🚩
+* **Points:** `12` 🏆
+* **Progress:** `10.25%` 
+---
 
 ### 📊 My Stats (Self-hosted on Vercel)
 
